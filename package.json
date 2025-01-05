@@ -1,0 +1,14 @@
+{
+  "name": "mux_trial_api",
+  "version": "1.0.0",
+  "description": "A mux trial to connect API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chanito",
+  "license": "ISC",
+  "dependencies": {
+    "@mux/mux-node": "^9.0.1"
+  }
+}
