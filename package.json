@@ -9,6 +9,7 @@
   "author": "Chanito",
   "license": "ISC",
   "dependencies": {
-    "@mux/mux-node": "^9.0.1"
+    "@mux/mux-node": "^9.0.1",
+    "dotenv": "^16.4.7"
   }
 }
